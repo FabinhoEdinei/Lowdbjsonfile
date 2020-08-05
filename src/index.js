@@ -20,7 +20,7 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false });
 var defaultUsers = [
   { name: "Brad Pitt" },
   { name: "Ed Norton" },
-  { name: "Denzel Washington" }
+  { name: "Don Ruan" }
 ];
 // Clear the databaase
 db.get("users")
